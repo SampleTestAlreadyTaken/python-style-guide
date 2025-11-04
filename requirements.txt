@@ -3,3 +3,4 @@ boto3~=1.21.21
 dataclass-wizard==0.22.1
 fastapi==0.115.4
  
+ 
